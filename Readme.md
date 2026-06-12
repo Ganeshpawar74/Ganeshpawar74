@@ -1,487 +1,452 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ganesh%20Pawar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ganesh%20Pawar&fontSize=55&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Engineering%20%7C%20Generative%20AI&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=CS+%28AI+%26+ML%29+Engineer+%7C+Production+ML+Systems;End-to-End+ML+%E2%86%92+Deployed+APIs+%7C+RAG+Pipelines;LangChain+%7C+PyTorch+%7C+Transformers+%7C+FastAPI;93.6%25+Diagnostic+Accuracy+%7C+8-Agent+BI+Platform;From+Raw+Data+to+Business+Impact)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Architecting+Scalable+Systems+at+Production+Scale;Engineering+AI%2FML+Pipelines+%26+LLM+Applications;Full+Stack+%7C+MERN+%7C+Spring+Boot+%7C+Python;Building+Products+That+Solve+Real+Problems)](https://git.io/typing-svg)
+<br/>
+
+![BE AI & ML](https://img.shields.io/badge/BE%20Computer%20Science-AI%20%26%20ML-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
+![Mumbai University](https://img.shields.io/badge/Mumbai%20University-2022--2026-6D28D9?style=flat-square&logo=university&logoColor=white)
+![Location](https://img.shields.io/badge/Mumbai%2C%20India-Maharashtra-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshpawar74.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pawar-ai)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshppawar864@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganeshpawar74)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ganeshpawar74&color=7C3AED&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Ganeshpawar74?color=6D28D9&style=flat-square&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Ganeshpawar74?color=4C1D95&style=flat-square&logo=github&label=Stars)
 
 </div>
 
 <br/>
-
-<div align="center">
-
-![BE Computer Engineering](https://img.shields.io/badge/B.E._Computer_Engineering-SPPU%2C_Pune-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/Pune%2C_Maharashtra-India-6D28D9?style=for-the-badge&logo=google-maps&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ganeshpawar74.github.io-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshpawar74.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pawar-74)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-ganeshpawar74%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshpawar74@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Ganeshpawar74-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganeshpawar74)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ganeshpawar74&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/Ganeshpawar74?style=for-the-badge&color=6D28D9&logo=github&label=FOLLOWERS)](https://github.com/Ganeshpawar74?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/Ganeshpawar74?style=for-the-badge&color=4F46E5&logo=github&label=TOTAL+STARS)](https://github.com/Ganeshpawar74)
-
-</div>
 
 ---
 
-## `~/about`
+## `⚡ About`
 
-```typescript
-const ganesh: SoftwareEngineer = {
-  name:         "Ganesh Pawar",
-  role:         "Full Stack Engineer · AI/ML Engineer · Product Engineer",
-  education:    "B.E. Computer Engineering — Savitribai Phule Pune University",
-  location:     "Pune, Maharashtra, India",
-  repositories: 28,
-  domains:      ["Full Stack Web", "Machine Learning", "Cloud Engineering", "DevOps"],
-  philosophy:   "Ship fast. Iterate with purpose. Engineer for scale.",
-};
+```python
+class GaneshPawar:
+    role        = "AI/ML Engineer · Data Analyst · Generative AI Developer"
+    education   = "B.E. Computer Science (AI & ML) — Mumbai University, 2026"
+    location    = "Mumbai, India"
+
+    shipped = [
+        "93.6% diagnostic accuracy — CNN-based medical image classifier (5K+ records)",
+        "8-agent autonomous BI platform — LangChain multi-agent NL-to-SQL system",
+        "50K+ record demand forecaster — ML + time-series for inventory optimization",
+    ]
+
+    impact = {
+        "manual_effort_reduction" : "40%",
+        "iteration_cycle_speedup" : "30%",
+        "retrieval_time_reduction": "60%",
+        "forecast_accuracy_gain"  : "20%",
+    }
+
+    philosophy = "Ask 'what decision does this drive?' before writing a single line of code."
+
+    open_to = [
+        "AI/ML Engineer (Full-Time / Intern)",
+        "Data Analyst / Data Scientist",
+        "Generative AI Engineer",
+        "MLOps / Applied Research Roles",
+    ]
 ```
 
 <br/>
 
-I am a software engineer with a strong foundation in **full-stack development** and a deepening specialization in **AI/ML systems engineering**. My work spans architecting scalable backend services, building data-driven ML pipelines, and shipping production-grade web applications that deliver measurable value.
-
-I approach every problem with a **product mindset** — understanding the business context behind every technical decision. Whether it is designing a REST API, training a classification model, configuring CI/CD pipelines, or deploying containerized microservices, I bring the same rigor to system design, performance, and long-term maintainability.
-
-My current focus sits at the intersection of **applied AI and software engineering** — building intelligent systems that are not just academically sound, but operationally robust at scale. I am actively building across the full stack, contributing to open source, and sharpening my craft daily.
-
-<br/>
-
-<details>
-<summary><b>⚡ Open To</b></summary>
-
-<br/>
-
-| Opportunity | Status |
-|---|---|
-| Full-Time SWE / AI Engineer Roles | ✅ Actively Seeking |
-| Backend / Platform / API Engineering | ✅ Open |
-| AI/ML Engineering & Research | ✅ Open |
-| Open Source Collaboration | ✅ Always Open |
-| Freelance / Contract Projects | 🔄 Selective |
-
-</details>
-
 ---
 
-## `~/stack`
+## `🛠 Tech Stack`
 
 <div align="center">
 
-### Languages
+### Languages & Databases
+[![My Skills](https://skillicons.dev/icons?i=python,r,sql,postgresql,mysql&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css&theme=dark&perline=8)](https://skillicons.dev)
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,figma,sass&theme=dark&perline=8)](https://skillicons.dev)
-
-### Backend & Databases
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgresql,redis,firebase&theme=dark&perline=8)](https://skillicons.dev)
+### ML / AI Frameworks & Backend
+[![My Skills](https://skillicons.dev/icons?i=pytorch,fastapi,streamlit,docker,git&theme=dark)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,linux,postman&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,jupyter,linux,redis&theme=dark)](https://skillicons.dev)
 
 </div>
 
+<br/>
+
+<div align="center">
+
+| Layer | Technologies |
+|-------|-------------|
+| **Data & Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI (DAX) · Excel |
+| **Machine Learning** | Scikit-learn · PyTorch · Statistical Modeling · A/B Testing · EDA · Feature Engineering |
+| **Time Series** | Prophet · ARIMA · Demand Forecasting · Anomaly Detection |
+| **Generative AI** | LangChain · HuggingFace · RAG Pipelines · Prompt Engineering · LLM Fine-tuning |
+| **LLM APIs** | OpenAI API · Gemini API · Anthropic API · MistralAI |
+| **NLP & Vector Search** | Semantic Search · Embeddings · ChromaDB · FAISS · NER · Text Classification |
+| **Data Engineering** | ETL Pipelines · DuckDB · PostgreSQL · Data Quality · Feature Stores |
+| **Orchestration** | n8n · LangSmith · Docker · FastAPI · Redis |
+
+</div>
+
+<br/>
+
 ---
 
-## `~/ai-ml-expertise`
+## `🤖 AI / ML Expertise`
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| **Machine Learning** | ████████░░ Advanced | Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering, Cross-Validation |
-| **Deep Learning** | ███████░░░ Proficient | CNNs, RNNs, LSTM, Transformers, Transfer Learning, Fine-tuning |
-| **Natural Language Processing** | ███████░░░ Proficient | Text Classification, Embeddings, Tokenization, Sentiment Analysis, NER |
-| **LLM Engineering** | ██████░░░░ Intermediate | Prompt Engineering, RAG Architecture, LangChain, OpenAI API, Vector DBs |
-| **Computer Vision** | ██████░░░░ Intermediate | Image Classification, Object Detection, OpenCV, Feature Extraction |
-| **Data Engineering** | ████████░░ Advanced | ETL Pipelines, Pandas, NumPy, Data Cleaning, Feature Engineering |
-| **Model Deployment** | ███████░░░ Proficient | Flask, FastAPI, Pickle Serialization, REST APIs, Docker Containers |
-| **ML Frameworks** | ████████░░ Advanced | Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers |
+|--------|-------------|---------|
+| **Deep Learning** | ████████████ Expert | CNNs, Medical Image Classification, 93.6% production accuracy |
+| **LLM Engineering** | ████████████ Expert | RAG, Fine-tuning, Prompt Engineering, Multi-agent Systems |
+| **ML Pipelines** | ███████████░ Advanced | End-to-end: ingestion → features → training → FastAPI deployment |
+| **Time Series** | ███████████░ Advanced | ARIMA, Prophet, demand forecasting on 50K+ records |
+| **Multi-Agent Systems** | ███████████░ Advanced | 8-agent LangChain orchestration, Redis memory, NL-to-SQL |
+| **NLP & Embeddings** | ██████████░░ Proficient | Semantic search, ChromaDB, BGE Embeddings, 60% faster retrieval |
+| **Data Analytics** | ████████████ Expert | EDA, statistical analysis, Power BI dashboards, KPI tracking |
+| **Feature Engineering** | ███████████░ Advanced | Encoding, scaling, selection, cross-validation, hyperparameter tuning |
 
 </div>
 
----
-
-## `~/projects`
-
-> 28 public repositories spanning AI/ML, Full Stack Web, Systems Engineering, and Academic Projects. Featured projects highlighted below — filter the complete list at the end of this section.
-
 <br/>
-
-<details>
-<summary><b>🌾 Crop Recommendation System — AI/ML · Agricultural Intelligence Platform</b></summary>
-
-<br/>
-
-> An intelligent agricultural decision support system that applies machine learning to recommend optimal crops based on real-world soil and climate parameters. Built to address the critical challenge of data-driven crop selection for farmers using a Flask-served ML pipeline.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Scikit-learn, Pandas, NumPy, Flask, HTML, CSS, Jupyter Notebook |
-| **Scale** | 2,200+ records · 22 crop categories · 7 environmental input features |
-| **Performance** | 97%+ classification accuracy — Random Forest ensemble model |
-| **Security** | Input validation layer, sanitized API endpoints, scaler serialization |
-| **Impact** | Recommends optimal crops from soil NPK, pH, rainfall, temperature, humidity |
-| **Repository** | [Crop-Recommendation-system](https://github.com/Ganeshpawar74/Crop-Recommendation-system) |
-
-<br/>
-
-The system ingests 7 soil and climate parameters (nitrogen, phosphorus, potassium content, pH, rainfall, temperature, and humidity) and produces accurate crop recommendations via an ensemble ML model. The project demonstrates complete end-to-end ML engineering — from raw data ingestion, EDA, and feature scaling (MinMaxScaler + StandardScaler) through model training, comparative benchmarking (Random Forest, Naive Bayes, SVM, Logistic Regression), Pickle serialization, and a lightweight Flask deployment interface. Trained models and scalers are persisted as `.pkl` files and served through a Jinja2-templated HTML frontend.
-
-**Languages:** Jupyter Notebook 96.4% · HTML 3.0% · Python 0.6%
-
-</details>
-
-<details>
-<summary><b>🍕 Food Delivery Platform (v1) — Full Stack · MERN Architecture</b></summary>
-
-<br/>
-
-> A production-grade food delivery web application built on the MERN stack with a complete order lifecycle management system. Engineered with focus on real-time updates, clean UX, scalable backend architecture, and RESTful API design.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | MongoDB, Express.js, React.js, Node.js, JWT, Stripe API |
-| **Scale** | Multi-restaurant support · Dynamic menu management · Role-based access |
-| **Performance** | Optimized React rendering · Lazy loading · Efficient Mongoose queries |
-| **Security** | JWT authentication · bcrypt password hashing · CORS policy · Input sanitization |
-| **Impact** | Full order flow: browse → cart → payment → admin tracking |
-| **Repository** | [fooddelivery](https://github.com/Ganeshpawar74/fooddelivery) |
-
-<br/>
-
-Architected with clean separation between React client and Node/Express server. Implemented context-based global state management for cart and auth workflows, integrated Stripe for secure payment processing, and built a role-based admin dashboard with real-time order management, CRUD menus, and delivery tracking. Demonstrates production-level thinking in authentication security, Mongoose schema design, and frontend performance.
-
-</details>
-
-<details>
-<summary><b>🍔 Food Delivery Platform (v2) — Full Stack · Iteration & Refinement</b></summary>
-
-<br/>
-
-> Second iteration of the Food Delivery platform — rebuilt with architectural improvements, enhanced UX patterns, and refined backend logic. Demonstrates iterative engineering discipline and the ability to refactor and improve production systems.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | MongoDB, Express.js, React.js, Node.js, JWT |
-| **Scale** | Improved component architecture · Enhanced state management |
-| **Performance** | Refactored API layer · Reduced re-renders · Optimized MongoDB queries |
-| **Security** | Enhanced authentication flow · Improved session handling |
-| **Impact** | Demonstrates engineering iteration, refactoring discipline, and system improvement |
-| **Repository** | [fooddilivery2](https://github.com/Ganeshpawar74/fooddilivery2) |
-
-<br/>
-
-This second iteration reflects a disciplined approach to software improvement — revisiting architecture decisions, refactoring component hierarchies, optimizing API performance, and addressing UX pain points identified during v1 development. A clear demonstration of iterative engineering thinking and production system maintenance practices.
-
-</details>
-
-<details>
-<summary><b>🛡️ Code Defenders — Gamification · Developer Community Platform</b></summary>
-
-<br/>
-
-> A developer-focused competitive coding and gamification platform built to create an engaging environment for programmers to grow through challenges, real-time leaderboards, and achievement systems.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React.js, Node.js, Express.js, MongoDB, Socket.io |
-| **Scale** | Real-time competitive events · Multi-user concurrent support |
-| **Performance** | WebSocket-based real-time score sync · Low-latency leaderboard updates |
-| **Security** | Secure user sessions · Challenge integrity validation |
-| **Impact** | Gamified coding challenges with rankings, streaks, and progression |
-| **Repository** | [Code-Defenders-](https://github.com/Ganeshpawar74/Code-Defenders-) |
-
-<br/>
-
-Code Defenders blends competitive programming with community engagement through real-time multiplayer coding events, challenge creation tooling, and a progressive achievement framework. WebSocket connections via Socket.io power live leaderboard updates during active contest events. The backend challenge validation engine supports automated test case evaluation, while the frontend delivers a polished, responsive interface built for both desktop and mobile competitive coding sessions.
-
-</details>
-
-<details>
-<summary><b>🎓 TE MERN — Full Stack · Academic MERN Stack Implementation</b></summary>
-
-<br/>
-
-> A structured full-stack web application built as a comprehensive academic project demonstrating the complete MERN stack implementation lifecycle — from database schema design through API architecture to production-ready frontend deployment.
-
-<br/>
-
-| Attribute | Details |
-|---|---|
-| **Stack** | MongoDB, Express.js, React.js, Node.js, HTML5, CSS3 |
-| **Scale** | Multi-module content management · Full CRUD operations |
-| **Performance** | Stateless REST API · Efficient MongoDB query design |
-| **Security** | Role-based access control · Input validation · Secure routing |
-| **Impact** | Complete MERN lifecycle reference implementation |
-| **Repository** | [TE_MERN](https://github.com/Ganeshpawar74/TE_MERN) |
-
-<br/>
-
-Engineered as a structured showcase of MERN proficiency, covering every layer of the web stack — Mongoose schema design with relational modelling, Express middleware architecture, React component-based UI with client-side routing, and Node.js server configuration. Follows industry conventions in project structure, Git workflow, and API design. Serves as both a learning artifact and a reference implementation for clean full-stack architecture patterns.
-
-**Language:** HTML (primary frontend layer)
-
-</details>
-
-<br/>
-
-### Complete Repository Index
-
-<div align="center">
-
-| Repository | Domain | Language | Description |
-|---|---|---|---|
-| [Crop-Recommendation-system](https://github.com/Ganeshpawar74/Crop-Recommendation-system) | AI/ML | Python · Jupyter | ML crop recommendation with Flask deployment |
-| [fooddelivery](https://github.com/Ganeshpawar74/fooddelivery) | Full Stack | MERN | Production food delivery with Stripe |
-| [fooddilivery2](https://github.com/Ganeshpawar74/fooddilivery2) | Full Stack | MERN | Iterated & improved food delivery platform |
-| [Code-Defenders-](https://github.com/Ganeshpawar74/Code-Defenders-) | Platform | MERN · Socket.io | Real-time competitive coding gamification |
-| [TE_MERN](https://github.com/Ganeshpawar74/TE_MERN) | Full Stack | HTML · MERN | Complete MERN stack academic project |
-| [Ganeshpawar74](https://github.com/Ganeshpawar74/Ganeshpawar74) | Profile | Markdown | GitHub profile configuration |
-
-> The remaining 22 repositories span DSA practice, academic coursework, component libraries, and experimental projects. Explore all at [github.com/Ganeshpawar74](https://github.com/Ganeshpawar74?tab=repositories).
-
-</div>
 
 ---
 
-## `~/experience`
+## `🚀 Featured Projects`
 
-### Software Engineering & AI/ML Project Engineer
-`B.E. Computer Engineering · SPPU, Pune` &nbsp; | &nbsp; `2021 – 2025`
+### ─── Generative AI & LLM Projects ───
 
-Built and delivered 5+ end-to-end production-grade systems across AI/ML, full-stack web, and platform engineering during academic tenure. Focused on shipping clean, tested, documented code with measurable outcomes and real-world applicability.
-
-- Designed and deployed a production ML pipeline (Crop Recommendation System) achieving 97%+ accuracy on agricultural datasets, complete with Flask API serving and Pickle-based model serialization
-- Architected full-stack MERN applications with JWT auth, Stripe payment integration, real-time WebSocket events, and MongoDB data modeling
-- Engineered competitive programming platform with Socket.io-powered real-time leaderboard synchronization across concurrent multi-user sessions
-- Applied Docker containerization, Git-based collaborative workflows, and REST API design patterns across all projects
-- Authored clean, maintainable code following SOLID principles, MVC architecture, and industry-standard project structure conventions
-
+<details>
+<summary><b>🏥 HealthVerse AI — Intelligent Medical Report Analysis System</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5B21B6?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-5B21B6?style=flat-square&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-4F46E5?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-7C3AED?style=flat-square&logo=amazon-aws&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-6D28D9?style=flat-square&logo=socket.io&logoColor=white)
+> A production-grade RAG-powered healthcare assistant integrating Deep Learning and LLMs for medical report understanding. Processes medical images through CNN-based classifiers and surfaces findings via a semantic search layer — enabling clinicians and analysts to query reports in natural language.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Python · PyTorch · FastAPI · ChromaDB · BGE Embeddings · Streamlit · Plotly |
+| **Scale** | 5,000+ medical image records processed and indexed |
+| **Performance** | 93.6% diagnostic classification accuracy · 60% faster retrieval via optimized vector search |
+| **Architecture** | CNN → FastAPI → ChromaDB (RAG) → LLM synthesis → Streamlit UI |
+| **Impact** | Reduced costs associated with manual report review; production-ready deployment |
+| **Repository** | [github.com/Ganeshpawar74](https://github.com/Ganeshpawar74) |
+
+**Key engineering decisions:** BGE Embeddings selected over OpenAI embeddings for domain-specific biomedical text; ChromaDB chosen over FAISS for persistent, filterable vector storage; CNN architecture tuned specifically for radiology image patterns achieving 93.6% top-1 accuracy on held-out test set.
+
+<br/>
+</details>
+
+<details>
+<summary><b>🤖 Agentic Data Analyst — Autonomous Business Intelligence System</b></summary>
+<br/>
+
+> An 8-agent autonomous BI platform that converts natural-language business questions into SQL queries, KPI dashboards, anomaly detection alerts, and executive-ready PDF/HTML reports — designed for non-technical stakeholders to self-serve analytics without writing a single line of code.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | LangChain · FastAPI · PostgreSQL · DuckDB · Prophet · ARIMA · Redis · Docker · LangSmith |
+| **Agents** | Planner · Analyst · Query · Visualization · Forecasting · Reporting · Anomaly · Memory |
+| **Architecture** | NL → Planner Agent → Query Agent (NL-to-SQL) → Analyst → Visualization → Report |
+| **Memory** | Redis short-term + ChromaDB RAG for long-term analytical context |
+| **Output** | Automated PDF/HTML executive reports · Plotly dashboards · Anomaly alerts |
+| **Repository** | [github.com/Ganeshpawar74](https://github.com/Ganeshpawar74) |
+
+**Key engineering decisions:** Multi-agent decomposition enables parallel workstreams (forecasting runs concurrently with anomaly detection); LangSmith observability layer provides full trace logging for debugging agent chains in production; DuckDB chosen for fast in-memory OLAP queries without infrastructure overhead.
+
+<br/>
+</details>
 
 ---
 
-## `~/achievements`
+### ─── Machine Learning & AI Systems ───
+
+<details>
+<summary><b>📦 AI Inventory Forecasting & Decision Support System</b></summary>
+<br/>
+
+> An intelligent forecasting platform that analyzes historical transaction data to predict demand, optimize stock levels, and generate AI-driven inventory recommendations — directly reducing stock management risk and operational costs for supply chain teams.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Python · Scikit-learn · Prophet · ARIMA · Streamlit · Plotly |
+| **Scale** | 50,000+ transaction records analyzed |
+| **Performance** | 20% improvement in demand prediction accuracy via advanced feature engineering |
+| **Interface** | Interactive Plotly dashboards in Streamlit with AI-generated recommendations |
+| **Impact** | Reduced stock management risk; improved operational efficiency for supply chain |
+| **Repository** | [github.com/Ganeshpawar74](https://github.com/Ganeshpawar74) |
+
+**Key engineering decisions:** Systematic model selection benchmarked ARIMA, Prophet, and gradient-boosted regressors — ensemble selected based on MAPE on held-out validation windows; feature engineering introduced calendar effects, lag features, and rolling statistics to capture demand seasonality.
+
+<br/>
+</details>
+
+<details>
+<summary><b>🌾 Crop Recommendation System</b></summary>
+<br/>
+
+> A machine learning system that recommends optimal crops based on soil parameters and environmental conditions, supporting precision agriculture decision-making for farmers and agricultural planners.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Python · Scikit-learn · Jupyter Notebook · Pandas · Matplotlib |
+| **Domain** | Precision Agriculture · Multi-class Classification |
+| **Architecture** | Feature preprocessing → Model benchmarking → Recommendation engine |
+| **Repository** | [github.com/Ganeshpawar74/Crop-Recommendation-system](https://github.com/Ganeshpawar74/Crop-Recommendation-system) |
+
+<br/>
+</details>
+
+---
+
+### ─── Data Analytics & BI Projects ───
+
+<details>
+<summary><b>🏥 Healthcare Operations Performance Analysis</b></summary>
+<br/>
+
+> End-to-end healthcare analytics solution consolidating patient, financial, and operational records into executive Power BI dashboards — enabling data-driven decisions for capacity planning, resource allocation, and operational efficiency.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | SQL · Power BI (DAX) · Python · Pandas |
+| **Scale** | 50,000+ patient, financial, and operational records |
+| **Performance** | 60% reduction in reporting time via automated dashboard pipelines |
+| **Output** | Executive KPI dashboards · Bottleneck identification · Capacity planning insights |
+| **Repository** | [github.com/Ganeshpawar74](https://github.com/Ganeshpawar74) |
+
+<br/>
+</details>
+
+<details>
+<summary><b>👥 HR Analytics Performance Dashboard</b></summary>
+<br/>
+
+> Comprehensive HR analytics platform analyzing employee attrition, salary distribution, and performance trends — surfacing key drivers of turnover and delivering actionable workforce planning recommendations to HR leadership.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Excel · SQL · Power BI · Python |
+| **Domains** | Attrition Analysis · Salary Distribution · Performance Benchmarking |
+| **Output** | Interactive KPI dashboards · Attrition driver analysis · Retention strategy recommendations |
+| **Repository** | [github.com/Ganeshpawar74](https://github.com/Ganeshpawar74) |
+
+<br/>
+</details>
+
+<br/>
+
+---
+
+## `💼 Experience`
+
+<details>
+<summary><b>Machine Learning Intern — Sunitiq · Remote · Apr 2026 – May 2026</b></summary>
+<br/>
+
+Engineered production-ready ML pipelines for demand forecasting and business outcome prediction using Python, PyTorch, and Scikit-learn. Delivered end-to-end workflows from raw data to deployed regression and classification models.
+
+- Built robust feature engineering pipelines: missing value treatment, encoding, scaling, and feature selection — **reducing manual analysis effort by 40%**
+- Conducted cross-validation and systematic hyperparameter tuning — **reducing iteration cycles by 30%** and accelerating deployment readiness
+- Automated model evaluation and reporting pipelines with structured experiment tracking, delivering actionable insights to business strategy decisions
+- Upskilled junior analysts by sharing methodology, experiment logs, and findings across team
+
+`Python` `PyTorch` `Scikit-learn` `Feature Engineering` `Cross-Validation` `Hyperparameter Tuning` `Statistical Modeling` `Regression` `Classification`
+
+</details>
+
+<details>
+<summary><b>Data Analytics Intern — InternHack · Remote · Jan 2026 – May 2026</b></summary>
+<br/>
+
+Delivered end-to-end analytics solutions across healthcare and HR domains — from ETL pipeline construction to executive Power BI dashboards surfacing operational insights for product and business stakeholders.
+
+- Designed Power BI dashboards with DAX measures and KPI tracking, delivering real-time operational insights to support cost reduction and process optimization
+- Built ETL pipelines using Python and SQL — **reducing manual reporting effort by 40%**
+- Performed EDA on business datasets to surface trends, anomalies, and actionable recommendations — enabling faster and more informed stakeholder decisions
+
+`Power BI` `DAX` `SQL` `Python` `ETL Pipelines` `EDA` `KPI Dashboards` `Statistical Analysis`
+
+</details>
+
+<br/>
+
+---
+
+## `🏆 Achievements`
 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 🏆 **ML Model Excellence** | Achieved 97%+ classification accuracy in Crop Recommendation System — benchmarked across 4 algorithms, selected Random Forest as optimal |
-| 🚀 **Full Stack Delivery** | Delivered production-grade Food Delivery Platform (v1 + v2) with complete auth, payment, and admin systems within academic sprint cycles |
-| ⚡ **Real-Time Systems** | Engineered WebSocket-powered real-time competitive platform supporting concurrent multi-user events with live leaderboard sync |
-| 🔁 **Iterative Engineering** | Demonstrated production system iteration discipline by rebuilding and refactoring the Food Delivery platform in v2 with architectural improvements |
-| 📦 **Active Open Source Presence** | Maintaining 28+ public repositories across AI/ML, Full Stack, and Systems Engineering domains on GitHub |
-| 🎯 **Competitive Programming** | Active problem solver on LeetCode, GeeksforGeeks, HackerRank, and CodeChef with consistent practice across DSA domains |
+|-------------|---------|
+| 🎯 **93.6% Diagnostic Accuracy** | CNN-based medical image classifier deployed in production via FastAPI |
+| 🤖 **8-Agent Autonomous Platform** | Multi-agent LangChain BI system with RAG, Redis memory, NL-to-SQL |
+| 📈 **50K+ Record Forecaster** | Demand prediction system with 20% accuracy improvement |
+| ⚡ **60% Faster Retrieval** | Optimized vector search with ChromaDB + BGE Embeddings |
+| 🔁 **40% Less Manual Effort** | ETL pipeline automation across analytics and ML workflows |
+| 🚀 **30% Faster Iterations** | Automated model evaluation and structured experiment tracking |
+| 💼 **Dual Internships** | Concurrent ML Engineering (Sunitiq) + Data Analytics (InternHack) |
+| 🎓 **3 Production ML Systems** | Shipped before entering the industry as a fresher |
 
 </div>
 
+<br/>
+
 ---
 
-## `~/certifications`
+## `📜 Certifications`
 
 <div align="center">
 
-### AWS
+### Udemy · Krish Naik
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-&nbsp;
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Oracle
-
-![Oracle Java Foundations](https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-&nbsp;
-![Oracle DB](https://img.shields.io/badge/Oracle-Database_Essentials-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Python_for_Data_Science-0066CC?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data_Structures_%26_Algorithms-0066CC?style=for-the-badge&logo=c&logoColor=white)
-&nbsp;
-![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine_Learning-0066CC?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Cisco
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-&nbsp;
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science%20%26%20ML-Complete%20Bootcamp-7C3AED?style=for-the-badge&logo=udemy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20%26%20NLP-Complete%20Course-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistical%20ML%20%26%20EDA-Applied%20Course-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-## `~/coding-profiles`
+## `💻 Coding Profiles`
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ganeshpawar74)
-&nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Ganeshpawar74)
-&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/Ganeshpawar74)
-&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Compete-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Ganeshpawar74)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Ganeshpawar74)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Ganeshpawar74)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Ganeshpawar74)
 
 </div>
 
+<br/>
+
 ---
 
-## `~/analytics`
+## `📊 GitHub Analytics`
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Ganeshpawar74&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" alt="GitHub Stats" />
-&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshpawar74&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&text_color=C4B5FD&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganeshpawar74&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_color=4C1D95&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshpawar74&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=4C1D95&hide_border=false&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img width="72%" src="https://streak-stats.demolab.com/?user=Ganeshpawar74&theme=midnight-purple&hide_border=true&background=0D0B1E&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=7C3AED" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshpawar74&theme=tokyonight&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9&border=4C1D95" width="60%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `~/trophies`
+## `🏅 GitHub Trophies`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ganeshpawar74&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ganeshpawar74&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<br/>
+
 ---
 
-## `~/activity`
+## `📈 Contribution Activity`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshpawar74&bg_color=0D0B1E&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" />
+[![Ganesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganeshpawar74&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=false&border_color=4C1D95&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<br/>
+
 ---
 
-## `~/contribution-snake`
+## `🐍 Contribution Snake`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganeshpawar74/Ganeshpawar74/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganeshpawar74/Ganeshpawar74/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Ganeshpawar74/Ganeshpawar74/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganeshpawar74/Ganeshpawar74/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganeshpawar74/Ganeshpawar74/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ganeshpawar74/Ganeshpawar74/output/github-snake.svg" />
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-## `~/current-focus`
+## `🔭 Current Focus`
 
 ```yaml
+engineer: Ganesh Pawar
+status: Available for Hire
+
 learning:
-  - Advanced LLM Architectures: RAG pipelines, AI Agents, PEFT fine-tuning
-  - Distributed Systems Design and System Design at Scale (DDIA)
-  - Cloud-Native Engineering on AWS: EKS, Lambda, RDS, S3, CloudFormation
-  - MLOps: Model versioning, monitoring, drift detection, continuous retraining
+  - Advanced LLM Fine-tuning (LoRA, QLoRA, RLHF)
+  - MLOps: model monitoring, drift detection, CI/CD for ML
+  - Distributed training with PyTorch DDP
 
 building:
-  - Production AI pipelines with LangChain, Pinecone, and vector databases
-  - Scalable REST microservices with Spring Boot, Docker, and Kubernetes
-  - Personal engineering portfolio with in-depth case studies and live demos
-  - Open source tools for agricultural intelligence and social impact ML
+  - Production multi-agent systems with LangGraph
+  - Real-time analytics pipelines with streaming data
+  - LLM-powered document intelligence platforms
 
 exploring:
-  - Multi-agent AI systems and autonomous workflow orchestration
-  - Kubernetes scheduling for ML workloads and GPU-accelerated inference
-  - GraphQL APIs, federated data architectures, and DataMesh patterns
-  - Rust for systems-level performance and WebAssembly compilation targets
+  - Vector database optimization strategies (HNSW, IVF)
+  - Agentic workflows with tool-augmented LLMs
+  - Causal inference for business analytics
 
 open_to:
-  - Full-Time SWE / Full Stack Engineering roles — Pune or Remote
-  - AI/ML Engineering and Applied Research positions
-  - Platform Engineering and Backend-heavy system design roles
-  - Open source collaboration, OSS mentorship, and community projects
+  - AI/ML Engineer (Full-Time)
+  - Data Analyst / Data Scientist
+  - Generative AI Engineer
+  - Applied Research & MLOps roles
+  - Collaborative open-source AI projects
 ```
-
----
-
-## `~/connect`
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-ganeshpawar74%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshpawar74@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pawar-74)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Ganeshpawar74-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganeshpawar74)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshpawar74.github.io)
-
-</div>
-
----
-
-<div align="center">
-
-*"The craft is not in writing the code. The craft is in understanding the problem deeply enough that the code writes itself."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" width="100%" />
+---
+
+## `🤝 Connect`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-ganeshppawar864%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshppawar864@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Pawar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pawar-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Ganeshpawar74-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganeshpawar74)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ganeshpawar74.github.io-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshpawar74.github.io/Portfolio/)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"The best model is the one that drives the right decision — not the one with the best benchmark score."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
