@@ -389,20 +389,6 @@ Delivered end-to-end analytics solutions across healthcare and HR domains — fr
 
 ---
 
-## `💻 Coding Profiles`
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ganeshpawar74/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Ganeshpawar74/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ganeshppawar864)
-
-</div>
-
-<br/>
-
----
-
 ## `📊 GitHub Analytics`
 
 <div align="center">
