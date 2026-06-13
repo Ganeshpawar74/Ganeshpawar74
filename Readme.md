@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ganesh%20Pawar&fontSize=55&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Analyst%20%7C%20Generative%20AI&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ganesh%20Pawar&fontSize=55&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%7C%20ML%20%7C%20Data%20Analyst%20%7C%20Generative%20AI&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=AI+%26+ML+Engineer+%7C+Production-Ready+Systems;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Generative+AI+%7C+LangChain+%7C+RAG+%7C+Multi-Agent;93.6%25+Diagnostic+Accuracy+%7C+8-Agent+BI+Platform;50K%2B+Records+Forecasted+%7C+40%25+Effort+Reduction)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+Engineer+%7C+ETL%2FELT+Pipelines+%7C+SQL+%7C+Python;AI+%26+ML+Engineer+%7C+Production-Ready+Systems;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Generative+AI+%7C+LangChain+%7C+RAG+%7C+Multi-Agent;93.6%25+Diagnostic+Accuracy+%7C+8-Agent+BI+Platform;50K%2B+Records+Forecasted+%7C+40%25+Effort+Reduction)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,13 +36,14 @@
 
 ```python
 class GaneshPawar:
-    role        = "AI/ML Engineer · Data Analyst · Generative AI Developer"
+    role        = "Data Engineer · AI/ML Engineer · Data Analyst · Generative AI Developer"
     education   = "B.E. Computer Science (AI & ML) — Vishwaniketan's iMEET, Mumbai University 2026"
     location    = "Mumbai, India"
     phone       = "+91 8767880796"
     portfolio   = "https://www.ganeshppawar.xyz/"
 
     shipped = [
+        "Autonomous ETL/ELT pipelines  — PostgreSQL + DuckDB, governed & reproducible",
         "93.6% diagnostic accuracy  — CNN-based medical image classifier  (5,000+ records)",
         "8-agent autonomous BI platform — LangChain multi-agent NL-to-SQL + RAG system",
         "50K+ record demand forecaster  — ML + time-series for inventory optimization",
@@ -50,6 +51,7 @@ class GaneshPawar:
 
     impact = {
         "manual_effort_reduction" : "40%   (ETL + ML pipeline automation)",
+        "reporting_time_reduction": "60%   (SQL pipelines + Power BI dashboards)",
         "iteration_cycle_speedup" : "30%   (automated experiment tracking)",
         "retrieval_time_reduction": "60%   (ChromaDB + BGE vector search)",
         "forecast_accuracy_gain"  : "20%   (advanced feature engineering)",
@@ -58,6 +60,7 @@ class GaneshPawar:
     philosophy = "Ask 'what decision does this drive?' before writing a single line of code."
 
     open_to = [
+        "Data Engineer            (Full-Time / Intern)",
         "AI/ML Engineer          (Full-Time / Intern)",
         "Data Analyst / Scientist (Full-Time / Intern)",
         "Generative AI Engineer   (Full-Time / Intern)",
@@ -72,6 +75,16 @@ class GaneshPawar:
 ## `🛠 Tech Stack`
 
 <div align="center">
+
+<div align="center">
+
+### ─── Data Engineering ───
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![ETL](https://img.shields.io/badge/ETL%2FELT-Pipelines-7C3AED?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/Ganeshpawar74)
 
 ### ─── Languages & Databases ───
 
@@ -127,14 +140,16 @@ class GaneshPawar:
 
 | Category | Technologies |
 |----------|-------------|
+| **Data Engineering** | ETL/ELT Pipelines · SQL (CTEs, Window Functions) · PostgreSQL · DuckDB · RDBMS Design · Data Validation & Reconciliation · Data Quality Assurance · Data Modeling · Azure |
 | **Languages & DB** | Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · R · SQL · PostgreSQL · MySQL |
+| **CS Fundamentals** | Algorithms & Data Structures · OOP · Time/Space Complexity · Problem Solving |
 | **ML & Data Science** | Scikit-learn · PyTorch · EDA · Feature Engineering · Regression · Classification · Clustering · Hyperparameter Tuning · A/B Testing · Statistical Analysis |
 | **Time Series** | Prophet · ARIMA · Demand Forecasting · Anomaly Detection · Rolling Features |
 | **Generative AI & LLMs** | LangChain · HuggingFace · RAG Pipelines · Prompt Engineering · LLM Fine-tuning · OpenAI API · Gemini API · Anthropic API · MistralAI |
 | **NLP & Vector Search** | Semantic Search · Embeddings · BGE Embeddings · ChromaDB · FAISS · NER · Text Classification |
 | **Analytics & BI** | Power BI (DAX) · Power Query · Excel (Pivot Tables, XLOOKUP, Dashboards) · KPI Reporting |
-| **Data Engineering** | ETL Pipelines · DuckDB · Data Cleaning · Feature Stores · Data Quality Assurance |
-| **Backend & Orchestration** | FastAPI · Streamlit · Docker · Redis · n8n · LangSmith · Git · GitHub · Jupyter |
+| **Backend & Orchestration** | FastAPI · Streamlit · Docker · Redis · n8n · LangSmith · Git · GitHub (CI/CD basics) · Jupyter |
+| **Methodology** | Agile/Scrum · Unit Testing · GitHub Copilot & AI-assisted SQL Generation |
 
 </div>
 
@@ -148,6 +163,7 @@ class GaneshPawar:
 
 | Domain | Proficiency | Key Deliverable |
 |--------|-------------|-----------------|
+| **Data Engineering** | `███████████░` Advanced | Governed ETL/ELT pipelines · PostgreSQL · DuckDB · **40-60% reporting effort reduction** |
 | **Deep Learning** | `████████████` Expert | CNNs · Medical Image Classification · **93.6% production accuracy** |
 | **LLM Engineering** | `████████████` Expert | RAG · Fine-tuning · Prompt Engineering · Multi-agent Systems |
 | **Data Analytics & BI** | `████████████` Expert | Power BI dashboards · DAX · KPI tracking · EDA on 50K+ records |
@@ -166,6 +182,49 @@ class GaneshPawar:
 ---
 
 ## `🚀 Featured Projects`
+
+### ─── Data Engineering & Governed BI Pipelines ───
+
+<details>
+<summary><b>🤖 Agentic Data Analyst — Autonomous Data Pipeline & BI System</b></summary>
+<br/>
+
+> An 8-agent autonomous data pipeline that converts natural-language business questions into SQL queries, governed ETL outputs, anomaly alerts, time-series forecasts, and executive-ready PDF/HTML reports — built with multi-layer data validation, audit controls, and reconciliation checks for reproducible, enterprise-grade delivery.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | PostgreSQL · DuckDB · Python · LangChain · FastAPI · Plotly · Prophet · ARIMA · Redis · Docker |
+| **Agents** | Planner · Analyst · Query · Visualization · Forecasting · Reporting · Anomaly · Memory |
+| **Architecture** | NL Input → Planner → NL-to-SQL Query Agent → Validation/Reconciliation → Analyst → Report Generator |
+| **Governance** | Multi-layer data validation, audit controls, and reconciliation checks at every pipeline stage |
+| **Output** | Automated PDF/HTML executive reports · Plotly dashboards · Anomaly detection alerts |
+| **Impact** | Modular ingestion/transformation/analysis/reporting layers enable rapid extension to new data sources |
+| **Repository** | [Agentic-Data-Analyst-Autonomous-Business-Intelligence-System](https://github.com/Ganeshpawar74/Agentic-Data-Analyst-Autonomous-Business-Intelligence-System) |
+
+**Key engineering decisions:** Multi-agent decomposition enables parallel workstreams (forecasting runs concurrently with anomaly detection); LangSmith provides full observability and trace logging for production debugging; DuckDB chosen for fast in-memory OLAP queries without infrastructure overhead.
+
+<br/>
+</details>
+
+<details>
+<summary><b>🏥 Healthcare Operations Performance Analysis — SQL ETL & Power BI</b></summary>
+<br/>
+
+> SQL-based extraction and transformation pipelines consolidating 50,000+ patient, financial, and operational records — applying CTEs, window functions, and reconciliation checks to deliver clean, analytics-ready datasets, surfaced through executive Power BI dashboards.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | SQL (CTEs, Window Functions) · Power BI (DAX · Power Query) · Python · Pandas |
+| **Scale** | **50,000+** patient, financial, and operational records |
+| **Pipeline** | Extraction → reconciliation/validation → modeling → KPI dashboards |
+| **Performance** | **60%** reduction in stakeholder reporting time |
+| **Output** | Executive KPI dashboards · Bottleneck identification · Capacity planning insights |
+| **Repository** | [Hospital-Dashboard](https://github.com/Ganeshpawar74/Hospital-Dashboard) |
+
+<br/>
+</details>
+
+---
 
 ### ─── Generative AI & Multi-Agent Systems ───
 
@@ -186,27 +245,6 @@ class GaneshPawar:
 | **Repository** | [Intelligent-Medical-Report-Analysis-System](https://github.com/Ganeshpawar74/Intelligent-Medical-Report-Analysis-System-with-AI-Diagnosis-RAG-Based-Insights-) |
 
 **Key engineering decisions:** BGE Embeddings selected over OpenAI Ada for domain-specific biomedical text; ChromaDB chosen over FAISS for persistent, filterable, metadata-rich vector storage; CNN architecture tuned for radiology image patterns achieving 93.6% top-1 accuracy on held-out test set.
-
-<br/>
-</details>
-
-<details>
-<summary><b>🤖 Agentic Data Analyst — Autonomous Business Intelligence System</b></summary>
-<br/>
-
-> An 8-agent autonomous BI platform converting natural-language business questions into SQL queries, KPI dashboards, anomaly alerts, and executive-ready PDF/HTML reports — built so non-technical stakeholders can self-serve analytics without writing a single line of code.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | LangChain · FastAPI · PostgreSQL · DuckDB · Prophet · ARIMA · Redis · Docker · LangSmith |
-| **Agents** | Planner · Analyst · Query · Visualization · Forecasting · Reporting · Anomaly · Memory |
-| **Architecture** | NL Input → Planner → NL-to-SQL Query Agent → Analyst → Visualization → Report Generator |
-| **Memory** | Redis (short-term session) + ChromaDB RAG (long-term analytical context) |
-| **Output** | Automated PDF/HTML executive reports · Plotly dashboards · Anomaly detection alerts |
-| **Impact** | Non-technical stakeholders self-serve full analytics workflows end-to-end |
-| **Repository** | [Agentic-Data-Analyst-Autonomous-Business-Intelligence-System](https://github.com/Ganeshpawar74/Agentic-Data-Analyst-Autonomous-Business-Intelligence-System) |
-
-**Key engineering decisions:** Multi-agent decomposition enables parallel workstreams (forecasting runs concurrently with anomaly detection); LangSmith provides full observability and trace logging for production debugging; DuckDB chosen for fast in-memory OLAP queries without infrastructure overhead.
 
 <br/>
 </details>
@@ -254,23 +292,6 @@ class GaneshPawar:
 ---
 
 ### ─── Data Analytics & Business Intelligence ───
-
-<details>
-<summary><b>🏥 Healthcare Operations Performance Analysis</b></summary>
-<br/>
-
-> End-to-end healthcare analytics consolidating 50,000+ patient, financial, and operational records into executive Power BI dashboards — enabling data-driven decisions for capacity planning, resource allocation, and bottleneck resolution.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | SQL · Power BI (DAX · Power Query) · Python · Pandas |
-| **Scale** | **50,000+** patient, financial, and operational records |
-| **Performance** | **60%** reduction in reporting time via automated dashboard pipelines |
-| **Output** | Executive KPI dashboards · Bottleneck identification · Capacity planning insights |
-| **Repository** | [GitHub — Ganeshpawar74](https://github.com/Ganeshpawar74) |
-
-<br/>
-</details>
 
 <details>
 <summary><b>👥 HR Analytics Performance Dashboard</b></summary>
@@ -333,6 +354,7 @@ Delivered end-to-end analytics solutions across healthcare and HR domains — fr
 
 | Recognition | Details |
 |-------------|---------|
+| 🛠 **Governed ETL/ELT Pipelines** | PostgreSQL + DuckDB · multi-layer validation, audit & reconciliation checks |
 | 🎯 **93.6% Diagnostic Accuracy** | CNN-based medical image classifier — production-deployed via FastAPI |
 | 🤖 **8-Agent Autonomous BI Platform** | Multi-agent LangChain system · RAG · Redis memory · NL-to-SQL |
 | 📈 **50K+ Record Forecaster** | Demand prediction system with 20% accuracy improvement |
@@ -444,7 +466,7 @@ Delivered end-to-end analytics solutions across healthcare and HR domains — fr
 
 ```yaml
 engineer  : Ganesh Pawar
-status    : Open to Work — AI/ML · Data Analyst · GenAI Roles
+status    : Open to Work — Data Engineering · AI/ML · Data Analyst · GenAI Roles
 location  : Mumbai, India
 portfolio : https://www.ganeshppawar.xyz/
 
@@ -465,6 +487,7 @@ exploring:
   - Causal inference           (for business analytics)
 
 open_to:
+  - Data Engineer              (Full-Time or Internship)
   - AI / ML Engineer           (Full-Time or Internship)
   - Data Analyst / Scientist   (Full-Time or Internship)
   - Generative AI Engineer     (Full-Time or Internship)
