@@ -43,27 +43,27 @@ class GaneshPawar:
     portfolio   = "https://www.ganeshppawar.xyz/"
 
     shipped = [
-        "Autonomous ETL/ELT pipelines  — PostgreSQL + DuckDB, governed & reproducible",
-        "93.6% diagnostic accuracy  — CNN-based medical image classifier  (5,000+ records)",
+        "Autonomous ETL/ELT pipelines — PostgreSQL + DuckDB, governed & reproducible",
+        "93.6% diagnostic accuracy — CNN-based medical image classifier (5,000+ records)",
         "8-agent autonomous BI platform — LangChain multi-agent NL-to-SQL + RAG system",
-        "50K+ record demand forecaster  — ML + time-series for inventory optimization",
+        "50K+ record demand forecaster — ML + time-series for inventory optimization",
     ]
 
     impact = {
-        "manual_effort_reduction" : "40%   (ETL + ML pipeline automation)",
-        "reporting_time_reduction": "60%   (SQL pipelines + Power BI dashboards)",
-        "iteration_cycle_speedup" : "30%   (automated experiment tracking)",
-        "retrieval_time_reduction": "60%   (ChromaDB + BGE vector search)",
-        "forecast_accuracy_gain"  : "20%   (advanced feature engineering)",
+        "manual_effort_reduction":  "40% (ETL + ML pipeline automation)",
+        "reporting_time_reduction": "60% (SQL pipelines + Power BI dashboards)",
+        "iteration_cycle_speedup":  "30% (automated experiment tracking)",
+        "retrieval_time_reduction": "60% (ChromaDB + BGE vector search)",
+        "forecast_accuracy_gain":   "20% (advanced feature engineering)",
     }
 
     philosophy = "Ask 'what decision does this drive?' before writing a single line of code."
 
     open_to = [
-        "Data Engineer            (Full-Time / Intern)",
-        "AI/ML Engineer          (Full-Time / Intern)",
-        "Data Analyst / Scientist (Full-Time / Intern)",
-        "Generative AI Engineer   (Full-Time / Intern)",
+        "Data Engineer (Full-Time / Internship)",
+        "AI/ML Engineer (Full-Time / Internship)",
+        "Data Analyst / Scientist (Full-Time / Internship)",
+        "Generative AI Engineer (Full-Time / Internship)",
         "MLOps / Applied Research Roles",
     ]
 ```
@@ -76,21 +76,19 @@ class GaneshPawar:
 
 <div align="center">
 
-<div align="center">
-
 ### ─── Data Engineering ───
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![ETL](https://img.shields.io/badge/ETL%2FELT-Pipelines-7C3AED?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/Ganeshpawar74)
+[![ETL](https://img.shields.io/badge/ETL%2FELT-Pipelines-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/Ganeshpawar74)
 
 ### ─── Languages & Databases ───
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://r-project.org)
 
@@ -389,6 +387,20 @@ Delivered end-to-end analytics solutions across healthcare and HR domains — fr
 
 ---
 
+## `💻 Coding Profiles`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ganeshpawar74/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Ganeshpawar74/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ganeshppawar864)
+
+</div>
+
+<br/>
+
+---
+
 ## `📊 GitHub Analytics`
 
 <div align="center">
@@ -451,15 +463,15 @@ Delivered end-to-end analytics solutions across healthcare and HR domains — fr
 ## `🔭 Current Focus`
 
 ```yaml
-engineer  : Ganesh Pawar
-status    : Open to Work — Data Engineering · AI/ML · Data Analyst · GenAI Roles
-location  : Mumbai, India
-portfolio : https://www.ganeshppawar.xyz/
+engineer:  Ganesh Pawar
+status:    Open to Work — Data Engineering | AI/ML | Data Analyst | GenAI Roles
+location:  Mumbai, India
+portfolio: https://www.ganeshppawar.xyz/
 
 learning:
-  - Advanced LLM Fine-tuning   (LoRA, QLoRA, RLHF)
-  - MLOps                      (model monitoring, drift detection, CI/CD for ML)
-  - LangGraph                  (stateful multi-agent orchestration)
+  - Advanced LLM Fine-tuning (LoRA, QLoRA, RLHF)
+  - MLOps (model monitoring, drift detection, CI/CD for ML)
+  - LangGraph (stateful multi-agent orchestration)
   - Advanced DAX & Power Query (enterprise-scale BI)
 
 building:
@@ -468,15 +480,15 @@ building:
   - LLM-powered document intelligence platforms
 
 exploring:
-  - Vector DB optimization     (HNSW, IVF index tuning)
-  - Agentic workflows          (tool-augmented LLMs)
-  - Causal inference           (for business analytics)
+  - Vector DB optimization (HNSW, IVF index tuning)
+  - Agentic workflows (tool-augmented LLMs)
+  - Causal inference (for business analytics)
 
 open_to:
-  - Data Engineer              (Full-Time or Internship)
-  - AI / ML Engineer           (Full-Time or Internship)
-  - Data Analyst / Scientist   (Full-Time or Internship)
-  - Generative AI Engineer     (Full-Time or Internship)
+  - Data Engineer (Full-Time / Internship)
+  - AI / ML Engineer (Full-Time / Internship)
+  - Data Analyst / Scientist (Full-Time / Internship)
+  - Generative AI Engineer (Full-Time / Internship)
   - Applied Research & MLOps Roles
   - Collaborative open-source AI projects
 ```
